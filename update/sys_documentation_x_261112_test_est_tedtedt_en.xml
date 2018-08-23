@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="tedtedt" label="tedt" language="en" table="x_261112_test_est">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>tedtedt</element>
+            <help/>
+            <hint/>
+            <label>tedt</label>
+            <language>en</language>
+            <name>x_261112_test_est</name>
+            <plural>tedts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-23 13:26:04</sys_created_on>
+            <sys_id>3fb5cc66db002300e40085184b9619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>tedt</sys_name>
+            <sys_package display_value="test" source="x_261112_test">dbf4c462db002300e40085184b961970</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test">dbf4c462db002300e40085184b961970</sys_scope>
+            <sys_update_name>sys_documentation_x_261112_test_est_tedtedt_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-23 13:26:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
